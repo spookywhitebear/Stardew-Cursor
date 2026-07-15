@@ -8,5 +8,8 @@ Complete Stardew theme for vscode and Cursor.
 * Open your cursor or vscode
 * `CTRL + SHIFT + 'P'` to open the command pallet
 * Type: `>Extension: Install from VSIX`
+
 [<img src="Extensions.png" width="200" height="200">]
+
+
 * Load all the files and change your `theme` `icon` and rest should automatically get installed.
